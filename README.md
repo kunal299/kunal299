@@ -1,8 +1,6 @@
 ### Here is What I'm Working On! 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I'm currently working on Github 
+- 🔭 I'm currently working on Android Projects
 - 🌱 I’m currently learning Everything 🤣
 - 👯 I’m looking to collaborate with other open source contributers
 - 💬 Ask me about Anything
