@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**kunal299/kunal299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Here is What I'm Working On! 👋
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on Github 
+- 🌱 I’m currently learning Everything 🤣
+- 👯 I’m looking to collaborate with other open source contributers
+- 💬 Ask me about Anything
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/kunal-mali-3030a21b7/)
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love to draw and play football 
+
