@@ -1,4 +1,4 @@
-### Here is What I'm Working On! 👋
+### Here is What I'm Working On!
 
 - 🔭 I'm currently working on Android Projects
 - 🌱 I’m currently learning Everything 🤣
