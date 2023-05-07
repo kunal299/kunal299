@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate with other open source contributers
 - 💬 Ask me about Anything
 - 📫 How to reach me : kunalmali299@gmail.com
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - 😄 Pronouns: He/Him
 
 ### Connect with me:
